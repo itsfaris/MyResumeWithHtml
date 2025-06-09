@@ -1,1 +1,1 @@
-my resume webpage with only Html. no CSS/JS .
+Sample Resume webpage with only Html. no CSS/JS .
